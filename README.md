@@ -10,6 +10,9 @@
 輸入後會跳出yahoo網頁要再填一組key，只要填這一次即可，未來都不用再填。 <br>
 2.各位置代碼:C=2, 1B=3, 2B=4, 3B=5, SS=6, LF=7, CF=8, RF=9, DH=10 <br>
 3.要填的是你希望該項目"最少"要PR多少<br>
+example <br>
+![image] (https://github.com/TawaOuO/fantasy/blob/main/enter.PNG)
+
 
 # 使用套件
 https://yahoo-fantasy-api.readthedocs.io/en/latest/index.html <br>
